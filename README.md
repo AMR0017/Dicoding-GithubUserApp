@@ -1,2 +1,2 @@
 # Dicoding-GithubUserApp
-Submission For Android Fundamental Module
+Submission For Dicoding Android Fundamental Module in Android Learning Path

@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.GithubAppSub2" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/git_background</item>
+        <item name="colorPrimaryVariant">@color/git_background</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/git_textColor</item>
+        <item name="colorSecondaryVariant">@color/git_numberColor</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="searchViewTextColor" parent="Theme.AppCompat.DayNight">
+        <item name="android:textColorHint">@color/git_textColor</item>
+        <item name="android:editTextColor">@color/git_textColor</item>
+    </style>
+</resources>
